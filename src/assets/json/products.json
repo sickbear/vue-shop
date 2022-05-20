@@ -1,0 +1,110 @@
+[
+  {
+    "type": "simple",
+    "id": 1,
+    "sku": "s1",
+    "title": "Dry food for rats",
+    "regular_price": {
+      "currency": "USD",
+      "value": 27.12
+    },
+    "image": "/img/1.jpg",
+    "brand": 4
+  },
+  {
+    "type": "simple",
+    "id": 2,
+    "sku": "s2",
+    "title": "Pet carrier bag",
+    "regular_price": {
+      "currency": "USD",
+      "value": 36.87
+    },
+    "image": "/img/2.jpg",
+    "brand": 1
+  },
+  {
+    "type": "simple",
+    "id": 3,
+    "sku": "s3",
+    "title": "Bag for cats and dogs",
+    "regular_price": {
+      "currency": "USD",
+      "value": 28.91
+    },
+    "image": "/img/3.jpg",
+    "brand": 2
+  },
+  {
+    "type": "simple",
+    "id": 4,
+    "sku": "s4",
+    "title": "Dog cheese biscuits",
+    "regular_price": {
+      "currency": "USD",
+      "value": 41.23
+    },
+    "image": "/img/4.jpg",
+    "brand": 3
+  },
+  {
+    "type": "simple",
+    "id": 5,
+    "sku": "s5",
+    "title": "Fruit mix",
+    "regular_price": {
+      "currency": "USD",
+      "value": 88.00
+    },
+    "image": "/img/5.jpg",
+    "brand": 4
+  },
+  {
+    "type": "simple",
+    "id": 6,
+    "sku": "s6",
+    "title": "Sand filler",
+    "regular_price": {
+      "currency": "USD",
+      "value": 127.41
+    },
+    "image": "/img/6.jpg",
+    "brand": 4
+  },
+  {
+    "type": "simple",
+    "id": 7,
+    "sku": "s7",
+    "title": "Animal bag",
+    "regular_price": {
+      "currency": "USD",
+      "value": 123.40
+    },
+    "image": "/img/7.jpg",
+    "brand": 2
+  },
+  {
+    "type": "simple",
+    "id": 8,
+    "sku": "s8",
+    "title": "Animal bed",
+    "regular_price": {
+      "currency": "USD",
+      "value": 92.32
+    },
+    "image": "/img/8.jpg",
+    "brand": 1
+  },
+  {
+    "type": "simple",
+    "id": 9,
+    "sku": "s9",
+    "title": "Mountain hay",
+    "regular_price": {
+      "currency": "USD",
+      "value": 53.40
+    },
+    "image": "/img/9.jpg",
+    "brand": 4
+  }
+]
